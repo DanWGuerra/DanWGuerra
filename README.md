@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Wiencke Guerra
 **XR Developer • Game Developer • Programming Teacher**  
-📍 Querétaro, México · ✉️ danwg01@gmail.com · 📱 +52 442 136 0251
+📍 Querétaro, México · ✉️ danwg01@gmail.com 
 
 ---
 
