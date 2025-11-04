@@ -19,9 +19,9 @@ Full-stack & XR-focused developer with a passion for interactive experiences, te
 
 ## 🛠️ Tech & Tools
 **Languages:** C#, JavaScript, PHP, SQL, Python  
-**Game Engines:** Unity (URP/HDRP), (Unreal familiarity)  
+**Game Engines:** Unity (URP/HDRP), Basic Unreal for VFX
 **Graphics & APIs:** ShaderLab, HLSL, DirectX, OpenGL, Vulkan basics  
-**Tools:** Git, GitHub, GitLab, Docker, VSCode, Blender, Amplify Shader Editor  
+**Tools:** Git, GitHub, GitLab, Docker, VSCode, Blender, After Effects, Maya
 **Cloud & Services:** REST APIs, basic cloud deployments
 
 ---
@@ -32,8 +32,8 @@ Full-stack & XR-focused developer with a passion for interactive experiences, te
 ---
 
 ## 📚 Teaching / Talks
-- Lecturer: Game design & graphics APIs (DirectX, OpenGL, Vulkan)  
-- Workshops: Shader authoring, URP migration, input recording for QA
+- Lecturer: "Life after college"
+- Game Jams
 
 ---
 
@@ -42,8 +42,4 @@ Full-stack & XR-focused developer with a passion for interactive experiences, te
 - Experience porting shader/visual effects between pipelines.  
 - Built teams and course modules for technical game development topics.
 
----
 
-## 🔗 Get in touch
-- Email: danwg01@gmail.com  
-- Location: Querétaro, México
